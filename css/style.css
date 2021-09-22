@@ -18,7 +18,7 @@ body{
     flex-wrap: nowrap;
 }
 .container{
-    width: 100vw;
+    width: 150vw;
     height: 100vh;
     background-color: var(--Very_dark_blue);
 
@@ -32,8 +32,8 @@ body{
     top: 150px;
     position: relative;
     border-radius: 8px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0
-    rgba(0,0,0,0.19);
+    /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0
+    rgba(0,0,0,0.19); */
 }
 .container .card .main_content{
     color: var(--White);
@@ -104,8 +104,8 @@ body{
         top: 150px;
         position: relative;
         border-radius: 8px;
-        box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0
-        rgba(0,0,0,0.19);
+        /* box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0
+        rgba(0,0,0,0.19); */
     }
     .container .card .main_content .stats{
         display: block;
