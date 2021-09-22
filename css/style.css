@@ -132,6 +132,7 @@ body{
     .container .card .image{
         width: 25rem;
         height: 25rem;
+        object-fit: cover;
         background-image: url("/images/image-header-mobile.jpg");
         border-top-left-radius:10px;
         border-top-right-radius:10px; 
